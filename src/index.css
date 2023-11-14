@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.digit-box {
+  width: 40px;
+  height: 60px;
+  background-color: black;
+  color: white;
+  font-size: 65px;
+  display: inline-block;
+  margin: 5px;
+  line-height: 60px;
+  
+}
